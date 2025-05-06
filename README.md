@@ -20,6 +20,10 @@
 ```bash
 python browser_demo.py
 ```
+打包
+```bash
+pyinstaller browser_demo.spec
+```
 
 ## 功能说明
 
